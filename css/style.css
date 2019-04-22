@@ -4,7 +4,7 @@
 h1 {
   color: #9CABA6;
   font-size: 60px;
-  margin: 0 auto;
+  margin: 0 auto 5px;
   font-family: 'Baskerville';
 	src: url(../fonts/Baskerville.ttc);
 }
