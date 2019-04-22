@@ -33,6 +33,6 @@ img {
   border: 3px solid #9CABA6;
 }
 img:hover {
-  transition: border .5sec 
+  transition: border .5s ease;
   border: 3px solid #70817B;
 }
