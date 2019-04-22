@@ -30,9 +30,9 @@ body {
 
 /* Write all remaining styles here */
 img {
+  transition: border .5s ease;
   border: 3px solid #9CABA6;
 }
 img:hover {
-  transition: border .5s ease;
   border: 3px solid #70817B;
 }
